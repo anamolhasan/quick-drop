@@ -9,7 +9,7 @@ function App() {
      <h1>Asslamu alaikum</h1>
      <p>Wellcome developer</p>
      <p>super sun</p>
-     <p>i am shihab</p>
+    <p>shihab</p>
     </>
   )
 }
