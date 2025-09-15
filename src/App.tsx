@@ -1,7 +1,14 @@
-
-import './App.css'
+import "./App.css";
 
 function App() {
+
+  return (
+    <>
+      <h1>Asslamu alaikum</h1>
+      <p>Wellcome developer</p>
+      <p>super sun</p>
+      <p>This is from samiul alim</p>
+
 
 
   return (
@@ -33,8 +40,9 @@ function App() {
       <p>samiul alim 2</p>
 
 
+
     </>
-  )
+  );
 }
 
-export default App
+export default App;
