@@ -11,9 +11,9 @@ function App() {
      <p>Wellcome developer</p>
      <p>super sun</p>
      <p>hellow error world</p>
-<<<<<<< HEAD
+
      <p>sharif siam ahmed</p>
-=======
+
 
       <h1>Asslamu alaikum</h1>
       <p>Wellcome developer</p>
@@ -22,7 +22,7 @@ function App() {
       <p>I am tanvir </p>
       <p>This is tanvir</p>
 
->>>>>>> 7d94903411f31920ce136b56f72bee42f5b9d9d4
+
     </>
   )
 }
