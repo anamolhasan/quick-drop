@@ -6,7 +6,7 @@ function App() {
       <h1>Asslamu alaikum</h1>
       <p>Wellcome developer</p>
       <p>super sun</p>
-      <p>samiul alim</p>
+      <p>This is from samiul alim</p>
     </>
   );
 }
