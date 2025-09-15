@@ -2,15 +2,7 @@ import "./App.css";
 
 function App() {
 
-  return (
-    <>
-      <h1>Asslamu alaikum</h1>
-      <p>Wellcome developer</p>
-      <p>super sun</p>
-      <p>This is from samiul alim</p>
-
-
-
+ 
   return (
     <>
 
@@ -21,6 +13,7 @@ function App() {
 
      <p>sharif siam ahmed</p>
      <p>js</p>
+     <p>edit</p>
 
 
       <h1>Asslamu alaikum</h1>
@@ -31,6 +24,7 @@ function App() {
 
       <p>I am tanvir </p>
       <p>This is tanvir</p>
+      <p>es6 siam ahmed</p>
 
 
 
