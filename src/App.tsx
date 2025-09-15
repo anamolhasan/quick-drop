@@ -1,16 +1,14 @@
-
-import './App.css'
+import "./App.css";
 
 function App() {
-  
-
   return (
     <>
-     <h1>Asslamu alaikum</h1>
-     <p>Wellcome developer</p>
-     <p>super sun</p>
+      <h1>Asslamu alaikum</h1>
+      <p>Wellcome developer</p>
+      <p>super sun</p>
+      <p>added from samiul</p>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
